@@ -1,4 +1,4 @@
-# project url
+# Project URL
 https://vibhabhagat.github.io/react-todo-list/
 
 # Getting Started with Create React App
